@@ -1,0 +1,2 @@
+env_cfeign_rename=bootstrap
+env_cfeign_remote=https://github.com/twbs/bootstrap.git
